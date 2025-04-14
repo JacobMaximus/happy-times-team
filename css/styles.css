@@ -1,0 +1,39 @@
+@import url('https://fonts.googleapis.com/css2?family=Barriecito&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Fontdiner+Swanky&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Itim&display=swap');
+body {
+    margin:0;
+    padding:0;
+    background-color: #faeee7;
+    
+}
+
+.nav ul{
+    margin-top:0;
+    padding:0;
+    display: flex;
+    list-style-type: none;
+}
+
+.nav ul li {
+    margin-top: 40px;
+    padding: 0 40px;
+}
+
+a{
+    text-decoration:none;
+}
+
+*{
+    font-family: "Itim", cursive;
+    font-style: normal;
+    color: #33272a;
+}
+
+.header{
+    margin: 0;
+    background-color: #ff8ba7;
+    display: flex;
+    height:auto;
+    padding-bottom: 40px;
+}
